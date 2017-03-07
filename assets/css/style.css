@@ -1,3 +1,7 @@
+/*----------------*/
+/* NAVBAR STYLING */
+/*----------------*/
+
 .navbar.navbar-inverse {
     background-color: transparent;
     border: none;
@@ -29,6 +33,11 @@ ul.nav li.active a {
     color: black !important;
 }
 
+
+/*--------------*/
+/* BODY STYLING */
+/*--------------*/
+
 body {
-    padding-top: 70px;
+    padding-top: 50px;
 }
