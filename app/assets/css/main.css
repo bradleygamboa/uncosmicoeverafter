@@ -1,4 +1,8 @@
 /* ------------------ BASE STYLES ------------------ */
+@font-face {
+	font-family: nav_font;
+	src: url('../fonts/Shorelines.otf');
+}
 
 html {
     height: 100%;
