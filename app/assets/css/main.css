@@ -82,6 +82,7 @@ html {
     font-size: 12px;
     color: #646464;
     font-weight: 700;
+    /*font-family: nav_font;*/
 }
 
 .navbar-nav > li > a:hover {
