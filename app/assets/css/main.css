@@ -209,3 +209,7 @@ body {
 .img-responsive {
   margin: 0 auto;
 }
+
+.black-nav li a{
+  color: black!important;
+}
